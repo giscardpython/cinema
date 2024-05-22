@@ -10,7 +10,7 @@ while escolha > 0 and tentativas <= 5:
     print ("Lista de Filmes\n")
     print('Sala 1 - A Volta dos Que Não Foram - classificação indicativa: 18.')
     print('Sala 2 - A Roda Quadrada - classificação indicativa: 14.')
-    print('Sala 3 - Poeira em Alto Mar - classificação indicativa: 16.')
+    print('Sala 3 - Poeira em Alto Mar - classificação indicativa: Livre.')
     print('Sala 4 - As Tranças do Rei Careca - classificação indicativa: 18.')
     print('Sala 5 - A Vingança do Peixe Frito - classificação indicativa: 16.')
 
