@@ -32,6 +32,9 @@ while escolha > 0 and tentativas <= 5:
         case 5:
             classificacao_indicativa = 16
             print (f'{nome}, que tem {idade} anos, escolheu a Sala 5 - A Vingança do Peixe Frito - classificação indicativa: {classificacao_indicativa}')
+        case _:
+            print (f'Sala Inexistente')
+            continue
 
     if (idade >= classificacao_indicativa):
         print (f'Impressao do ingresso para {nome} - Sala {sala}')
